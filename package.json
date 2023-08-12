@@ -1,0 +1,25 @@
+{
+  "name": "altschool-nodejs",
+  "version": "1.0.0",
+  "description": "This repo is for alt school second NodeJs assignment",
+  "main": "index.js",
+  "scripts": {
+    "start:task1": "node src/index.js",
+    "start:task2": "node src/task2.js",
+    "dev:task1": "nodemon src/index.js",
+    "dev:task2": "nodemon src/task2.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyghdrogin/altSchool-nodeJs.git"
+  },
+  "author": "Emmanuel Omopariola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyghdrogin/altSchool-nodeJs/issues"
+  },
+  "homepage": "https://github.com/hyghdrogin/altSchool-nodeJs#readme",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
